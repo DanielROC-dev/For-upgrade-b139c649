@@ -1,6 +1,6 @@
 <?php
 
-meme = array(
+$meme = array(
 "Doge",
 "Walter",
 "baby",
