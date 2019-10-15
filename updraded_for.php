@@ -15,6 +15,7 @@ foreach ($meme as $value) {
 foreach ($numbers as $count20) {
 	echo "$count20" . PHP_EOL;
 }
+
 exit();
 ?>
-
+lol
