@@ -18,4 +18,3 @@ foreach ($numbers as $count20) {
 
 exit();
 ?>
-lol
